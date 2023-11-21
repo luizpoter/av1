@@ -1,0 +1,54 @@
+.content {
+    border: 3px solid black;
+}
+
+figure {
+    width: auto;
+    height: auto;
+}
+
+body {
+    background-color: gray;
+}
+
+.card-body {
+    background-color: gray;
+}
+
+a {
+    color: black
+}
+
+table tr,
+td {
+    border: 1px solid black;
+    text-align: left;
+    size: 22;
+    margin-right: 10px;
+}
+
+main {
+    display: flex;
+    width: auto;
+    height: 10%;
+    margin-top: initial;
+    gap: 5px;
+}
+
+aside {}
+
+section {
+    margin-left: 100px;
+    display: flex;
+    flex-direction: column;
+}
+
+footer {
+    margin-top: 25px;
+    border: 1px solid black;
+}
+
+footer p {
+    font-size: 40px;
+    margin-top: 5px;
+}
